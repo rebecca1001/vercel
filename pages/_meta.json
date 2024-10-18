@@ -1,9 +1,9 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Start here",
+  "another": "What is Strategically.ai",
+  "advanced": "Pricing",
   "about": {
-    "title": "About",
+    "title": "",
     "type": "page"
   },
   "contact": {
